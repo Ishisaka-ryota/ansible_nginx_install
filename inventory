@@ -1,0 +1,2 @@
+[webservers]
+13.115.155.148 ansible_ssh_private_key_file=~/Desktop/ssh-key.pem ansible_ssh_user=ec2-user
